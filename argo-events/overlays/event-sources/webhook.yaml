@@ -37,4 +37,4 @@ spec:
            name: webhook-eventsource-svc
            port:
              number: 12000
-    host: webhook.104.196.111.81.xip.io
+    host: webhook.34.91.15.148.nip.io
