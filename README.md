@@ -6,7 +6,7 @@ The goal is to create a framework that is able to enumerate subdomains and asset
 Based on the differences (new domains, new assets), some events will get triggered and notifications(Slack messages, mails) will get sent, thus completing the integration.  
   
   ## End results  
-  * achieving continuous monitoring over a certain target
+  * achieving continuous monitoring over certain targets
     * this gives the researcher insights of changes through time and helps him/her create a clearer picture of the target
   * be able to effortlessly integrate new tools into the workflow
     * besides subdomain and asset enumeration, these tools could include automatic vulnerability scanners, technology mappers etc
